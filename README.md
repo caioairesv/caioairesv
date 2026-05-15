@@ -13,20 +13,5 @@ Apaixonado por tecnologia e curioso por natureza 💡
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,c,python,js,html,css,mysql,linux,docker,kubernetes,git)](https://skillicons.dev)
 
----
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesv&layout=donut&theme=tokyonight" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesv&layout=donut&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioairesv&layout=donut"/>
-</picture>
-
-
 
 
